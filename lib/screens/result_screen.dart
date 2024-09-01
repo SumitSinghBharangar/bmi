@@ -2,6 +2,8 @@
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_gauges/gauges.dart';
 
+import '../animations/animate.dart';
+
 class result extends StatefulWidget {
   @override
   var ht,

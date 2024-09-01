@@ -4,6 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:numberpicker/numberpicker.dart';
 import 'package:flutter/cupertino.dart';
 
+import '../animations/animate.dart';
+import 'result_screen.dart';
+
 class Calculate extends StatefulWidget {
   const Calculate({super.key});
 

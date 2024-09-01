@@ -4,6 +4,8 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_gauges/gauges.dart';
 
+import 'calculate_screen.dart';
+
 class SplashScreen extends StatefulWidget{
   const SplashScreen({super.key});
 
